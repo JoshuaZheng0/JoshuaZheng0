@@ -1,4 +1,4 @@
-# Hi I'm Joshua!<img src='https://github.com/JoshuaZheng0/JoshuaZheng0/blob/main/waving-hand.gif?raw=true' alt='Hi' width="20"/> 
+# Hi I'm Joshua!<img src='https://github.com/JoshuaZheng0/JoshuaZheng0/blob/main/waving-hand.gif?raw=true' alt='Hi' width="30"/> 
 a Computer Science Student at UMD, also dabbling a bit in Python, Java, Javascript, HTML, and CSS. This is my [website](http://www.joshuazheng.com/), and I'm currently working on a react app. I enjoy experimenting with new ideas. 
 <hr>
 <details>

@@ -4,7 +4,7 @@ a Computer Science Student at UMD, also dabbling a bit in Python, Java, Javascri
 <details>
   <summary>Language Statistics...</summary>
   <p align ="center">
-    <img src="https://wakatime.com/share/@be6da543-f75b-4bcc-b10c-ff53acd3e3bb/2686f273-610b-4e10-93e5-2c75166f7192.svg" height = "400"/>
+    <figure><embed src="https://wakatime.com/share/@be6da543-f75b-4bcc-b10c-ff53acd3e3bb/85df9d4d-9ec3-4a3d-a13a-9d57cbb9bf45.svg"></embed></figure>
   </p>
 </details>
 <details>
